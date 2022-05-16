@@ -199,6 +199,7 @@ Features
       ar              Arabic
       be              Belarusian
       bg              Bulgarian
+      cs              Czech
       da              Danish
       de              German
       el              Greek
@@ -226,6 +227,7 @@ Features
       ro              Romanian
       ru              Russian
       sl              Slovenian
+      sk              Slovak
       sr              Serbian
       sv              Swedish
       sw              Swahili
