@@ -267,6 +267,7 @@ of popular news source urls.. In case you need help choosing a news source!
     input code      full name
 
       ar              Arabic
+      cs              Czech
       de              German
       en              English
       es              Spanish
@@ -286,6 +287,7 @@ of popular news source urls.. In case you need help choosing a news source!
       hr              Croatian
       ro              Romanian
       sl              Slovenian
+      sk              Slovak
       sr              Serbian
       et              Estonian
       ja              Japanese
